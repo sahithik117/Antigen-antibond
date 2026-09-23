@@ -1,0 +1,8 @@
+PDB_FILE = "data/abag_split.csv"
+
+ANTIBODY_CHAIN = "A"
+ANTIGEN_CHAIN = "B"
+
+CONTACT_DISTANCE = 5.0
+
+MATRIX_SIZE = 128
